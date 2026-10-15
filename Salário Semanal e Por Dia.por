@@ -1,7 +1,3 @@
-programa {
-  funcao inicio() {
-  
-
 //entendimento do problema
    // salário recebido e os dias trabalhados de junin, para saber o quanto recebe por dia.
    //informações e variáveis
@@ -24,6 +20,3 @@ programa {
    //saída
    escreva("você recebe por dia: R$ ")
    escreva(total)
-  
-  }
-}
